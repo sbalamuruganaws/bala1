@@ -1,2 +1,3 @@
 hello
 I am new for git
+adding some content to pratice commit changes
